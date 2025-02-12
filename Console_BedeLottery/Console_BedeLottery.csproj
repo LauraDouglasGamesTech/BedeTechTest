@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <AssemblyName>Console_BedeLottery</AssemblyName>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+	<StartupObject>Console_BedeLottery.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <ProjectReference Include="..\BL_BedeLottery\BL_BedeLottery.csproj" />
+  </ItemGroup>
+
+</Project>
