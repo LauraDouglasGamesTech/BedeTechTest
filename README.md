@@ -66,6 +66,6 @@ While the implementation meets the core requirements, there are areas that can b
 - Provide an option for dynamic rule definition, enabling different lottery formats or prize structures.
 - Expand the project with an **API layer** to support a graphical user interface (GUI) or web-based interaction.
 
-### Use of LLMs  
+## Use of LLMs  
 
 A Large Language Model (LLM) was used to assist in compiling this README from notes, streamlining the documentation process and reducing time spent on repetitive tasks such as writing class comments. The LLM's output was carefully reviewed to ensure accuracy, clarity, and alignment with the project's intent, with all content checked for errors or misinterpretations before inclusion.
